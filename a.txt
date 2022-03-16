@@ -1,2 +1,0 @@
-this is one file initialization . don't write changed and date commit only write specifice reason .
-
